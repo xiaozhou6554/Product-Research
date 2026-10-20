@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+backend/.data/
+backend/pytest-cache-files-*/
+.test-api-*.db
+.test-tmp/
+.next/
+*.tsbuildinfo
+node_modules/
+frontend/test-results/
+frontend/playwright-report/
+runtime-data/
+.env
+.env.local
